@@ -6,7 +6,7 @@
 ## To do list
 1. Add dataloader
 2. Bleu score
-3.save model
+3. Save model
 4. Self-attention
 5. Multiple layers in encoder and decoder
 6. Without Attention
