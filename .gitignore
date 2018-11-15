@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/
+preprocess_translation/
+saved_model/
