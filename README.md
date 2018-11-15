@@ -12,3 +12,7 @@
 6. Without Attention
 7. Bean Search
 8. Play around the original data with respect to tokenization
+
+
+## To be discussed
+1. Used max_length from source sentence in both encoder and decoder?
