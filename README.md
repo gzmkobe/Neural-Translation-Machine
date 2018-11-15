@@ -6,8 +6,9 @@
 ## To do list
 1. Add dataloader
 2. Bleu score
-3. Self-attention
-4. Multiple layers in encoder and decoder
-5. Without Attention
-6. Bean Search
-7. Play around the original data with respect to tokenization
+3.save model
+4. Self-attention
+5. Multiple layers in encoder and decoder
+6. Without Attention
+7. Bean Search
+8. Play around the original data with respect to tokenization
