@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 .ipynb_checkpoints/
 data/
 preprocess_translation/
 saved_model/
+=======
+data/*
+preprocess_translation/*
+>>>>>>> b2daea06ff1f7f25f109fbb4b299a32b5a34af8e
