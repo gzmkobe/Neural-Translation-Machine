@@ -11,7 +11,7 @@
 5. cuda
 6. Multiple layers in encoder and decoder
 7. Without Attention
-8. Bean Search
+8. Beam Search
 9. Play around the original data with respect to tokenization
 
 
