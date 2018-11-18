@@ -11,4 +11,6 @@
 5. Multiple layers in encoder and decoder
 6. Without Attention
 7. Bean Search
-8. Play around the original data with respect to tokenization
+8. BPE
+9. Revtok to detokenize
+10. Play around the original data with respect to tokenization
