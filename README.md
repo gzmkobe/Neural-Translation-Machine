@@ -21,3 +21,8 @@
 * BPE
 * Revtok to detokenize
 * Play around the original data with respect to tokenization
+
+
+## Issue 
+
+* Including EOS token but I also used mask to force the sentence stop learning, so EOS will not be updated.
