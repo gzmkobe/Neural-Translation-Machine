@@ -8,7 +8,13 @@
 2. Bleu score
 3. Save model
 4. Self-attention
-5. Multiple layers in encoder and decoder
-6. Without Attention
-7. Bean Search
-8. Play around the original data with respect to tokenization
+5. cuda
+6. Multiple layers in encoder and decoder
+7. Without Attention
+8. Beam Search
+9. Play around the original data with respect to tokenization
+
+
+
+## To be discussed
+1. Used max_length = 100 from source sentence in both encoder and decoder?
