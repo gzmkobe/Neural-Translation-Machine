@@ -3,8 +3,11 @@
 
 ## Completed
 :white_check_mark: Add dataloader
-:white_check_mark: Train Unknown
+
+:white_check_mark: Train Unknown word representation
+
 :white_check_mark: Mask
+
 :white_check_mark: Minibatch
 
 ## To do list
