@@ -25,4 +25,4 @@
 
 ## Issue 
 
-* Including EOS token but I also used mask to force the sentence stop learning, so EOS will not be updated.
+:question: Including EOS token but I also used mask to force the sentence stop learning, so EOS will not be updated.
