@@ -12,6 +12,7 @@
 
 ## To do list
 
+* Mask needs cuda
 * Bleu score
 * Save model
 * Self-attention
