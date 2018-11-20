@@ -27,5 +27,9 @@
 ## Issue 
 
 :question: Does Unknown token learn?
+
 :question: Including EOS token but I also used the mask to force the sentence stop learning, so EOS will not be updated.
+
 :question: the most frequent word in Chinese vocabulary is " ", not sure if this will be an issue.
+
+:question: Used max_length = 100 from source sentence in both encoder and decoder?
