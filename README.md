@@ -1,5 +1,4 @@
-# CS234: Reinforcement Learning
-
+# This is a natural language processing course-based project. The project is to designed an RNN-based enc
 
 ## Completed
 :white_check_mark: Add dataloader
