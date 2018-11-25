@@ -26,9 +26,7 @@
 * Hierarchy softmax
 * randomgridsearch
 
-## Issue 
-
-:question: Does Unknown token learn?
+## Issues
 
 :question: Including EOS token but I also used the mask to force the sentence stop learning, so EOS will not be updated.
 
