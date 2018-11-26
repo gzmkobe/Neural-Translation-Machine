@@ -21,7 +21,6 @@
 * BPE
 * Revtok to detokenize
 * Play around the original data with respect to tokenization
-* batch normaliztion
 * Hierarchy softmax
 * randomgridsearch
 
