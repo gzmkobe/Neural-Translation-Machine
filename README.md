@@ -9,10 +9,10 @@
 
 :white_check_mark: Minibatch
 
+:white_check_mark: Bleu score
+
 ## To do list
 
-* Mask needs cuda
-* Bleu score
 * Save model
 * Self-attention
 * Multiple layers in encoder and decoder
