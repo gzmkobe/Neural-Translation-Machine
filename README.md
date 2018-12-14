@@ -2,10 +2,10 @@
 
 
 <pre>
- <b>Chinese_GRU.ipynb</b>
+ <b>Chinese_GRU.ipynb</b> Includes GRU-based Luong attention/no attention model for Chinese
 </pre>
 
-Includes GRU-based Luong attention/no attention model for Chinese
+
 
 
 ## Completed
