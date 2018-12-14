@@ -19,6 +19,8 @@
 
 :white_check_mark: Without Attention
 
+:white_check_mark: LSTM
+
 :white_check_mark: Bean Search
 
 :white_check_mark: Play around the original data with respect to tokenization
