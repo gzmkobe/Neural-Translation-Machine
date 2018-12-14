@@ -12,10 +12,15 @@
 :white_check_mark: Bleu score
 
 :white_check_mark: Save model
+
 :white_check_mark: Self-attention
+
 :white_check_mark: Multiple layers in encoder and decoder
+
 :white_check_mark: Without Attention
+
 :white_check_mark: Bean Search
+
 :white_check_mark: Play around the original data with respect to tokenization
 
 
