@@ -11,23 +11,15 @@
 
 :white_check_mark: Bleu score
 
-## To do list
+:white_check_mark: Save model
+:white_check_mark: Self-attention
+:white_check_mark: Multiple layers in encoder and decoder
+:white_check_mark: Without Attention
+:white_check_mark: Bean Search
+:white_check_mark: Play around the original data with respect to tokenization
 
-* Save model
-* Self-attention
-* Multiple layers in encoder and decoder
-* Without Attention
-* Bean Search
-* BPE
-* Revtok to detokenize
-* Play around the original data with respect to tokenization
-* Hierarchy softmax
-* randomgridsearch
 
-## Issues
+## Future Work
+Transformers
 
-:question: Including EOS token but I also used the mask to force the sentence stop learning, so EOS will not be updated.
 
-:question: the most frequent word in Chinese vocabulary is " ", not sure if this will be an issue.
-
-:question: Used max_length = 100 from source sentence in both encoder and decoder?
