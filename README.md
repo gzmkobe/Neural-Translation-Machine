@@ -1,6 +1,10 @@
 # This is a natural language processing course-based project. The project is to designed an RNN-based encoder and decoder with self-attention mechanism to translate Chinese/Vietnamese to English
 
-'''Chinese'''
+
+<pre>
+sample <b>Chinese</b> sample
+</pre>
+
 
 
 ## Completed
