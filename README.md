@@ -29,8 +29,8 @@
 
 
 ## Future Work
-Ipynb to py
+* Ipynb to py
 
-Transformers
+* Transformers
 
 
