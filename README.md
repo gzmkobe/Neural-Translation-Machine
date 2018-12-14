@@ -35,10 +35,9 @@
 
 :white_check_mark: LSTM
 
-:white_check_mark: Bean Search
+:white_check_mark: Beam Search
 
-:white_check_mark: Play around the original data with respect to tokenization
-
+:white_check_mark: character-level Chinese
 
 ## Future Work
 * Ipynb to py
