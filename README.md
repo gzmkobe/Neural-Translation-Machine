@@ -2,7 +2,7 @@
 
 
 <pre>
- <b>ch2en_gru.ipynb:</b> Includes GRU-based Luong attention/no attention model for Chinese corpus
+ <b>ch2en_gru.ipynb:</b> Includes GRU encoder and GRU-based Luong attention/no attention model for Chinese to English translation.
 </pre>
 
 
