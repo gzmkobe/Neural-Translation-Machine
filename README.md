@@ -2,12 +2,12 @@
 
 
 <pre>
- <b>Chinese_GRU.ipynb:</b> Includes GRU-based Luong attention/no attention model for Chinese corpus
+ <b>ch2en_gru.ipynb:</b> Includes GRU-based Luong attention/no attention model for Chinese corpus
 </pre>
 
 
 <pre>
- <b>Chinese_lstm.ipynb:</b> Includes lstm encoder and lstm-based Luong attention/no attention decoder model for Chinese to English translation.
+ <b>ch2en_lstm.ipynb:</b> Includes lstm encoder and lstm-based Luong attention/no attention decoder model for Chinese to English translation.
 </pre>
 
 
