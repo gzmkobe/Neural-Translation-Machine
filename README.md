@@ -1,8 +1,8 @@
-# This is a natural language processing course-based project. The project is to designed an RNN-based encoder and decoder with self-attention mechanism to translate Chinese/Vietnamese to English
+## This is a natural language processing course-based project. The project is to designed an RNN-based encoder and decoder with self-attention mechanism to translate Chinese/Vietnamese to English
 
 
 <pre>
- <b>Chinese_GRU.ipynb</b> Includes GRU-based Luong attention/no attention model for Chinese
+ <b>Chinese_GRU.ipynb:</b> Includes GRU-based Luong attention/no attention model for Chinese
 </pre>
 
 
