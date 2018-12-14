@@ -6,6 +6,10 @@
 </pre>
 
 
+<pre>
+ <b>Chinese_lstm.ipynb:</b> Includes lstm encoder and lstm-based Luong attention/no attention decoder model for Chinese to English translation.
+</pre>
+
 
 
 ## Completed
