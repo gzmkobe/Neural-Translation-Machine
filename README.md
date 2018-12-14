@@ -2,7 +2,7 @@
 
 
 <pre>
-sample <b>Chinese</b> sample
+ <b>Chinese_GRU.ipynb</b>
 </pre>
 
 
