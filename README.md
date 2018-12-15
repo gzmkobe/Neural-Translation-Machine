@@ -55,7 +55,9 @@
 
 :white_check_mark: character-level Chinese
 
+:white_check_mark: phrase-level Chinese
+
 ## Future Work
-* Ipynb to py
+* .Ipynb to .py
 
 * Transformers
