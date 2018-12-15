@@ -1,5 +1,18 @@
 # This is a natural language processing course-based project. The project is to designed an RNN-based encoder and decoder with self-attention mechanism to translate Chinese/Vietnamese to English
 
+<pre>
+ <b>ch2en_gru.ipynb:</b> Includes GRU encoder and GRU-based Luong attention/no attention model for Chinese to English translation.
+</pre>
+
+
+<pre>
+ <b>ch2en_lstm.ipynb:</b> Includes lstm encoder and lstm-based Luong attention/no attention decoder model for Chinese to English translation.
+</pre>
+
+<pre>
+ <b>vi2en.ipynb:</b> Includes lstm/gru encoder and lstm-based/gru-based Luong attention/no attention decoder model for Vietnamese to English translation.
+</pre>
+
 ## Completed
 :white_check_mark: Add dataloader
 
@@ -11,23 +24,21 @@
 
 :white_check_mark: Bleu score
 
-## To do list
+:white_check_mark: Save model
 
-* Save model
-* Self-attention
-* Multiple layers in encoder and decoder
-* Without Attention
-* Bean Search
-* BPE
-* Revtok to detokenize
-* Play around the original data with respect to tokenization
-* Hierarchy softmax
-* randomgridsearch
+:white_check_mark: Self-attention
 
-## Issues
+:white_check_mark: Multiple layers in encoder and decoder
 
-:question: Including EOS token but I also used the mask to force the sentence stop learning, so EOS will not be updated.
+:white_check_mark: Without Attention
 
-:question: the most frequent word in Chinese vocabulary is " ", not sure if this will be an issue.
+:white_check_mark: LSTM
 
-:question: Used max_length = 100 from source sentence in both encoder and decoder?
+:white_check_mark: Beam Search
+
+:white_check_mark: character-level Chinese
+
+## Future Work
+* Ipynb to py
+
+* Transformers
