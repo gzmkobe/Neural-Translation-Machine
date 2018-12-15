@@ -3,3 +3,6 @@ data/
 preprocess_translation/
 saved_model/
 Neural-Translation-Machine-Guo.ipynb
+Neural-Translation-Machine-New.ipynb
+ch2en-attention-colab_version.ipynb
+ch2en-attention.ipynb
