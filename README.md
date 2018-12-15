@@ -13,6 +13,23 @@
  <b>vi2en.ipynb:</b> Includes lstm/gru encoder and lstm-based/gru-based Luong attention/no attention decoder model for Vietnamese to English translation.
 </pre>
 
+
+<pre>
+ <b>vi2en.ipynb:</b> Includes lstm/gru encoder and lstm-based/gru-based Luong attention/no attention decoder model for Vietnamese to English translation.
+</pre>
+
+
+<pre>
+ <b>vi2en_self.ipynb:</b> Includes self-attention encoder and gru-based decoder model for Vietnamese to English translation.
+</pre>
+
+
+
+<pre>
+ <b>ch2en_self.ipynb:</b> Includes self-attention encoder and gru-based decoder model for Chinese to English translation.
+</pre>
+
+
 ## Completed
 :white_check_mark: Add dataloader
 
